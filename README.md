@@ -202,6 +202,20 @@ Darwin-GRC-FedRAMP-NIST80053-Control-Assessment/
 ├── remediation_plan.md
 └── evidence/
 
+## Evidence Screenshots
+
+### NIST SP 800-53 Control Matrix
+![NIST 800-53 Control Matrix](evidence/nist80053-control-matrix.png)
+
+### FedRAMP Gap Assessment
+![FedRAMP Gap Assessment](evidence/fedramp-gap-assessment.png)
+
+### POA&M Tracker
+![POA&M Tracker](evidence/poam-tracker.png)
+
+### FedRAMP Risk Register
+![FedRAMP Risk Register](evidence/fedramp-risk-register.png)
+
 ## Skills Demonstrated
 
 - FedRAMP
